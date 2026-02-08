@@ -8,7 +8,7 @@ export function FaqAccordion() {
         {
           question: "¿Qué es ARGENGOAL?",
           answer:
-            "ARGENGOAL es una organización especializada que conecta jugadores y academias del mundo con el fútbol argentino. Liderada por directores con 30 años de experiencia en clubes como Rosario Central, ofrecemos acceso directo a la estructura de AFA.",
+            "ARGENGOAL es una organización especializada que conecta jugadores y academias del mundo con el fútbol argentino. Liderada por directores con amplia trayectoria en clubes profesionales de primera división, ofrecemos acceso directo a la estructura de AFA.",
         },
         {
           question: "¿Por qué elegir Rosario?",

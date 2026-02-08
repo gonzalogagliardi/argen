@@ -4,14 +4,9 @@ import { Award, Globe, Briefcase, TrendingUp } from "lucide-react"
 export function Founder() {
   const achievements = [
     {
-      icon: Award,
-      title: "30 Años",
-      description: "De trayectoria oficial en Rosario Central",
-    },
-    {
       icon: Briefcase,
       title: "Gestión Deportiva",
-      description: "Ex Secretario Técnico y Director de Scouting",
+      description: "Secretario Técnico, Director de Scouting y Director de Academia Internacional",
     },
     {
       icon: Globe,
@@ -22,6 +17,11 @@ export function Founder() {
       icon: TrendingUp,
       title: "Formación",
       description: "Desarrollo de redes de captación internacional",
+    },
+    {
+      icon: Award,
+      title: "Trayectoria",
+      description: "Experiencia en todas las áreas del fútbol: infantil, juvenil y profesional",
     },
   ]
 
@@ -48,13 +48,16 @@ export function Founder() {
               <p className="text-xl text-primary font-semibold mb-6">Fundador y Director</p>
               <div className="space-y-4 text-muted-foreground leading-relaxed text-lg">
                 <p>
-                  Con <strong>30 años de trayectoria en el Club Atlético Rosario Central</strong>, Luciano ha dedicado su vida a todas las áreas del fútbol: infantil, juvenil y profesional.
+                  Luciano ha dedicado su vida a <strong>todas las áreas del fútbol: infantil, juvenil y profesional</strong>, trabajando en clubes profesionales argentinos de primera división.
                 </p>
                 <p>
                   Ocupó roles estratégicos como <strong>Secretario Técnico, Director de Scouting y Director de la Academia Internacional</strong>, entre otros cargos de gestión deportiva de alto nivel.
                 </p>
                 <p>
-                  Ha formado alianzas en más de 30 países, asesorando a clubes y acompañando delegaciones en competencias mundiales. Hoy, garantiza personalmente que cada jugador de ArgenGoal viva una experiencia formativa <strong>seria, ordenada y con oportunidades reales</strong>.
+                  Ha formado <strong>alianzas en más de 30 países</strong>, asesorando a clubes, desarrollando redes de captación y acompañando delegaciones deportivas en innumerables competencias alrededor del mundo.
+                </p>
+                <p>
+                  Su misión actual: <strong>acompañar a cada ingresante y a su familia para que vivan una experiencia formativa seria, ordenada y con oportunidades reales</strong>.
                 </p>
               </div>
             </div>

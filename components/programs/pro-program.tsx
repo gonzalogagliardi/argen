@@ -69,7 +69,11 @@ export function ProProgram() {
             <Badge className="text-sm px-3 py-1 bg-primary text-primary-foreground">Alto Rendimiento · Individual</Badge>
           </div>
 
-          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-8 text-balance">Pro Program</h2>
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 text-balance">Pro Program</h2>
+
+          <p className="text-2xl md:text-3xl font-semibold text-primary mb-8 italic">
+            "Vive y entrena como un futbolista elite"
+          </p>
 
           <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed text-pretty mb-10">
             No es un campus aislado: es una <strong>formación real</strong>. Vivís, entrenás y te adaptás al día a día{" "}
@@ -83,13 +87,17 @@ export function ProProgram() {
             </div>
             <div className="flex items-center gap-2 text-muted-foreground">
               <Calendar className="w-5 h-5 text-primary" />
-              <span className="font-medium">Flexible: 1 a 4 semanas (y 30 días)</span>
+              <span className="font-medium">Duración: Desde 1 semana hasta 1 año</span>
             </div>
             <div className="flex items-center gap-2 text-muted-foreground">
               <Target className="w-5 h-5 text-primary" />
               <span className="font-medium">Nivel: Intermedio / Avanzado</span>
             </div>
           </div>
+
+          <p className="text-sm text-muted-foreground mt-6 italic">
+            * Disponibilidad: de mitad de enero a mitad de diciembre
+          </p>
         </div>
 
         {/* Sedes y Red de Clubes */}

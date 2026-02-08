@@ -76,13 +76,23 @@ export function RosarioExperience() {
               Experiencia Grupal
             </Badge>
             <Badge className="text-sm px-3 py-1 bg-primary/10 text-primary hover:bg-primary/15">
-              Más partidos y tours que un torneo
+              Equipos · Academias · Colegios
             </Badge>
           </div>
 
-          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-8 text-balance">
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 text-balance">
             Rosario Experience
           </h2>
+
+          <p className="text-2xl md:text-3xl font-semibold text-primary mb-8 italic">
+            "Donde nacen las estrellas"
+          </p>
+
+          <div className="p-6 mb-8 rounded-xl bg-gradient-to-r from-primary/10 via-primary/5 to-primary/10 border-2 border-primary/30">
+            <p className="text-xl md:text-2xl font-bold text-center text-foreground">
+              ¡GARANTIZAMOS MÁS PARTIDOS Y TOURS QUE CUALQUIER TORNEO!
+            </p>
+          </div>
 
           <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed text-pretty mb-10">
             Una experiencia diseñada para equipos: competencia intensa con amistosos planificados y una agenda completa
@@ -103,6 +113,10 @@ export function RosarioExperience() {
               <span className="font-medium">Rosario, Argentina</span>
             </div>
           </div>
+
+          <p className="text-sm text-muted-foreground mt-6 italic">
+            * Disponibilidad: de mitad de enero a mitad de diciembre
+          </p>
         </div>
 
         {/* Day-to-day (critical clarification) */}
