@@ -89,17 +89,17 @@ export function VideoModal({
 
       {/* Video container */}
       <div
-        className="relative w-full max-w-lg md:max-w-2xl"
+        className="relative w-full max-w-sm md:max-w-md lg:max-w-lg max-h-[85vh] flex items-center justify-center"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Video - optimizado para formato vertical 9:16 */}
-        <div className="relative aspect-[9/16] rounded-2xl overflow-hidden bg-black shadow-2xl">
+        <div className="relative w-full max-h-[85vh] rounded-2xl overflow-hidden bg-black shadow-2xl">
           <video
             ref={videoRef}
             src={video.videoUrl}
             controls
             autoPlay
-            className="w-full h-full object-contain"
+            className="w-full h-full max-h-[85vh] object-contain"
             playsInline
           />
         </div>

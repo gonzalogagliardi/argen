@@ -6,8 +6,8 @@ import { useState } from "react"
 export function FloatingWhatsApp() {
   const [isHovered, setIsHovered] = useState(false)
 
-  // Placeholder WhatsApp number - can be easily replaced
-  const whatsappNumber = "5493411234567"
+  // WhatsApp number oficial de ARGENGOAL
+  const whatsappNumber = "5493413452340"
   const whatsappUrl = `https://wa.me/${whatsappNumber}`
 
   return (

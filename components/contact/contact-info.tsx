@@ -14,10 +14,11 @@ export function ContactInfo() {
 
         <div className="space-y-4">
           {/* Email */}
-          <Card className="p-6 border-border hover:border-primary/50 transition-colors">
+          <Card className="relative p-6 border-0 bg-white shadow-lg hover:shadow-xl hover:shadow-primary/20 transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary via-primary-dark to-primary" />
             <div className="flex items-start gap-4">
-              <div className="shrink-0 w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
-                <Mail className="w-6 h-6 text-primary" />
+              <div className="shrink-0 w-12 h-12 rounded-xl bg-gradient-to-br from-primary to-primary-dark shadow-lg shadow-primary/30 flex items-center justify-center">
+                <Mail className="w-6 h-6 text-white" />
               </div>
               <div>
                 <h3 className="font-semibold text-foreground mb-1">Email</h3>
@@ -33,24 +34,28 @@ export function ContactInfo() {
           </Card>
 
           {/* Teléfono / WhatsApp Principal */}
-          <Card className="p-6 border-border hover:border-primary/50 transition-colors">
+          <Card className="relative p-6 border-0 bg-white shadow-lg hover:shadow-xl hover:shadow-primary/20 transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary via-primary-dark to-primary" />
             <div className="flex items-start gap-4">
-              <div className="shrink-0 w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
-                <MessageCircle className="w-6 h-6 text-primary" />
+              <div className="shrink-0 w-12 h-12 rounded-xl bg-gradient-to-br from-[#25D366] to-[#128C7E] shadow-lg shadow-[#25D366]/30 flex items-center justify-center">
+                <MessageCircle className="w-6 h-6 text-white" />
               </div>
               <div>
                 <h3 className="font-semibold text-foreground mb-1">WhatsApp & Teléfono</h3>
-                <p className="text-muted-foreground font-medium">+54 9 341 559-8169</p>
+                <a href="https://wa.me/5493413452340" target="_blank" rel="noopener noreferrer" className="text-muted-foreground font-medium hover:text-primary transition-colors">
+                  +54 9 341 345-2340
+                </a>
                 <p className="text-sm text-muted-foreground mt-1">Atención directa ArgenGoal</p>
               </div>
             </div>
           </Card>
 
           {/* Ubicación */}
-          <Card className="p-6 border-border hover:border-primary/50 transition-colors">
+          <Card className="relative p-6 border-0 bg-white shadow-lg hover:shadow-xl hover:shadow-primary/20 transition-all duration-300 hover:-translate-y-1 overflow-hidden">
+            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary via-primary-dark to-primary" />
             <div className="flex items-start gap-4">
-              <div className="shrink-0 w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
-                <MapPin className="w-6 h-6 text-primary" />
+              <div className="shrink-0 w-12 h-12 rounded-xl bg-gradient-to-br from-primary to-primary-dark shadow-lg shadow-primary/30 flex items-center justify-center">
+                <MapPin className="w-6 h-6 text-white" />
               </div>
               <div>
                 <h3 className="font-semibold text-foreground mb-1">Base Operativa</h3>
