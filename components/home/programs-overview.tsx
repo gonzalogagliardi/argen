@@ -41,10 +41,10 @@ export function ProgramsOverview() {
     <section className="py-24 lg:py-32 bg-background">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-20">
-          <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-8 text-balance">
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-black text-foreground mb-8 text-balance">
             Nuestros Programas
           </h2>
-          <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed text-pretty">
+          <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed text-pretty font-medium">
             Dos propuestas distintas: equipos (Rosario) e individual (PRO). Un mismo objetivo: vivir el fútbol argentino
             desde adentro.
           </p>
@@ -56,18 +56,21 @@ export function ProgramsOverview() {
             return (
               <Card
                 key={index}
-                className={`border-2 ${program.type === "elite" ? "border-primary/40 shadow-xl shadow-primary/5" : "border-border"} hover:border-primary/60 transition-all hover:shadow-2xl`}
+                className={`relative border-2 overflow-hidden ${program.type === "elite" ? "border-primary/40 shadow-xl shadow-primary/10" : "border-border"} hover:border-primary transition-all duration-300 hover:shadow-2xl hover:shadow-primary/20 hover:-translate-y-1 group`}
               >
-                <CardHeader className="pb-6">
+                {/* Border top celeste AFA */}
+                <div className={`absolute top-0 left-0 right-0 h-1.5 ${program.type === "elite" ? "bg-gradient-to-r from-primary via-primary-dark to-primary" : "bg-primary group-hover:bg-gradient-to-r group-hover:from-primary group-hover:via-primary-dark group-hover:to-primary transition-all duration-300"}`} />
+
+                <CardHeader className="pb-6 pt-8">
                   <div className="flex items-start justify-between mb-6">
-                    <Icon className="w-14 h-14 text-primary" />
+                    <Icon className={`w-14 h-14 ${program.type === "elite" ? "text-primary" : "text-primary group-hover:scale-110 transition-transform"}`} />
                     <div className="flex items-center gap-2 text-sm text-muted-foreground bg-muted/50 px-3 py-2 rounded-full">
                       <Calendar className="w-4 h-4" />
                       <span className="font-medium">{program.duration}</span>
                     </div>
                   </div>
-                  <CardTitle className="text-3xl mb-4">{program.title}</CardTitle>
-                  <CardDescription className="text-base leading-relaxed">{program.description}</CardDescription>
+                  <CardTitle className="text-3xl font-black mb-4 text-foreground">{program.title}</CardTitle>
+                  <CardDescription className="text-base leading-relaxed font-medium">{program.description}</CardDescription>
 
                   {program.type === "group" && (
                     <div className="mt-4 flex flex-wrap items-center gap-2">
@@ -115,7 +118,7 @@ export function ProgramsOverview() {
                   <Button
                     asChild
                     variant={program.type === "elite" ? "default" : "outline"}
-                    className={`w-full group text-base py-6 ${program.type === "elite" ? "bg-primary text-primary-foreground shadow-lg shadow-primary/20" : "hover:bg-primary hover:text-primary-foreground"} transition-all`}
+                    className={`w-full group text-base py-6 font-bold ${program.type === "elite" ? "bg-gradient-to-r from-primary to-primary-dark text-black hover:from-primary-dark hover:to-primary shadow-lg shadow-primary/30 hover:shadow-primary/50" : "border-2 hover:bg-primary hover:text-black hover:border-primary"} transition-all duration-300`}
                   >
                     <Link href={program.href}>
                       {program.type === "elite" ? "Ver Precios y Detalles" : "Ver Itinerario"}

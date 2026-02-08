@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* ARGENGOAL palette */
+  /* ARGENGOAL palette - Colores AFA */
   --background: #ffffff;
   --foreground: #2d2f33;
   --card: #ffffff;
@@ -13,6 +13,7 @@
   --popover-foreground: #2d2f33;
   --primary: #62b3e5;
   --primary-foreground: #000000;
+  --primary-dark: #048ecc;
   --secondary: #d0d2d3;
   --secondary-foreground: #2d2f33;
   --muted: #d0d2d3;
@@ -87,6 +88,7 @@
   --color-popover-foreground: var(--popover-foreground);
   --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
+  --color-primary-dark: var(--primary-dark);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
   --color-muted: var(--muted);

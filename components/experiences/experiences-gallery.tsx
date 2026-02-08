@@ -27,15 +27,15 @@ export function ExperiencesGallery() {
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           {/* Filter Tabs */}
-          <div className="flex flex-wrap gap-2 justify-center mb-12">
+          <div className="flex flex-wrap gap-3 justify-center mb-12">
             {categories.map((category) => (
               <button
                 key={category.id}
                 onClick={() => setFilter(category.id)}
-                className={`px-6 py-2 rounded-full font-medium transition-all ${
+                className={`px-8 py-3 rounded-full font-bold transition-all duration-300 ${
                   filter === category.id
-                    ? "bg-primary text-primary-foreground"
-                    : "bg-muted text-muted-foreground hover:bg-muted/80"
+                    ? "bg-gradient-to-r from-primary to-primary-dark text-black shadow-lg shadow-primary/30 scale-105"
+                    : "bg-muted text-muted-foreground hover:bg-muted/80 hover:scale-105"
                 }`}
               >
                 {category.label}
@@ -46,21 +46,24 @@ export function ExperiencesGallery() {
           {/* Gallery Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredExperiences.map((experience, index) => (
-              <Card key={index} className="overflow-hidden border-border hover:border-primary/50 transition-all group">
+              <Card key={index} className="relative overflow-hidden border-2 border-border hover:border-primary transition-all duration-300 group hover:-translate-y-2 hover:shadow-2xl hover:shadow-primary/20">
+                {/* Border top celeste */}
+                <div className="absolute top-0 left-0 right-0 h-1 bg-primary group-hover:h-1.5 group-hover:bg-gradient-to-r group-hover:from-primary group-hover:via-primary-dark group-hover:to-primary transition-all duration-300" />
+
                 {/* Image */}
                 <div className="relative aspect-[4/3] overflow-hidden">
                   <img
                     src={experience.image || "/placeholder.svg"}
                     alt={experience.title}
-                    className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent group-hover:from-black/80 transition-all duration-300" />
                   {experience.type === "experience" ? (
-                    <Badge className="absolute top-4 right-4 bg-primary text-primary-foreground">
+                    <Badge className="absolute top-4 right-4 bg-gradient-to-r from-primary to-primary-dark text-black font-bold shadow-lg">
                       {experience.country}
                     </Badge>
                   ) : (
-                    <Badge className="absolute top-4 right-4 bg-accent text-accent-foreground">
+                    <Badge className="absolute top-4 right-4 bg-gradient-to-r from-primary to-primary-dark text-black font-bold shadow-lg">
                       {experience.category === "players" ? "Jugador" : experience.category === "coaches" ? "Entrenador" : "Blog"}
                     </Badge>
                   )}
@@ -68,7 +71,7 @@ export function ExperiencesGallery() {
 
                 {/* Content */}
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-foreground mb-3 text-balance">{experience.title}</h3>
+                  <h3 className="text-xl font-black text-foreground mb-3 text-balance group-hover:text-primary transition-colors">{experience.title}</h3>
                   <p className="text-sm text-muted-foreground mb-4 leading-relaxed">{experience.description}</p>
 
                   {experience.type === "experience" ? (
@@ -94,10 +97,10 @@ export function ExperiencesGallery() {
                           <span>{experience.readTime}</span>
                         </div>
                       </div>
-                      <Button asChild variant="ghost" className="w-full -mx-3">
+                      <Button asChild variant="ghost" className="w-full -mx-3 font-bold text-primary hover:text-primary-dark hover:bg-primary/10 transition-all group/btn">
                         <Link href={`/experiencias/${experience.slug}`}>
                           Leer Más
-                          <ArrowRight className="ml-2 h-4 w-4" />
+                          <ArrowRight className="ml-2 h-4 w-4 group-hover/btn:translate-x-1 transition-transform" />
                         </Link>
                       </Button>
                     </>
