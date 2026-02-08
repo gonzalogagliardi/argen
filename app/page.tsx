@@ -11,12 +11,12 @@ export default function HomePage() {
   return (
     <main>
       <Hero />
-      <WhatIsArgengoal />
-      <WhyArgentina />
       <ProgramsOverview />
+      <VideoTestimonials />
+      <WhyArgentina />
+      <WhatIsArgengoal />
       <HowItWorks />
       <Testimonials />
-      <VideoTestimonials />
       <CtaBanner />
     </main>
   )

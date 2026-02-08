@@ -19,7 +19,7 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-12 lg:grid-cols-4 lg:gap-16">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <Image src="/logo-light.png" alt="argengoal" width={160} height={45} className="h-9 w-auto mb-6 brightness-0 invert" />
+            <Image src="/logo-white.png" alt="argengoal" width={160} height={45} className="h-9 w-auto mb-6" />
             <p className="text-sm text-white/70 leading-relaxed max-w-xs font-medium">
               Experiencias de fútbol élite en el corazón de Argentina.
             </p>
