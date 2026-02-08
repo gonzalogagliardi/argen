@@ -5,6 +5,7 @@ import { ProgramsOverview } from "@/components/home/programs-overview"
 import { HowItWorks } from "@/components/home/how-it-works"
 import { Testimonials } from "@/components/home/testimonials"
 import { VideoTestimonials } from "@/components/home/video-testimonials"
+import { HomeGallery } from "@/components/home/home-gallery"
 import { CtaBanner } from "@/components/home/cta-banner"
 
 export default function HomePage() {
@@ -17,6 +18,7 @@ export default function HomePage() {
       <WhatIsArgengoal />
       <HowItWorks />
       <Testimonials />
+      <HomeGallery />
       <CtaBanner />
     </main>
   )
