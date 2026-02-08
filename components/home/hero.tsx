@@ -13,11 +13,15 @@ export function Hero() {
         <img
           src="/professional-football-stadium-in-rosario-argentina.jpg"
           alt="Football Stadium Argentina"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover scale-105 animate-subtle-zoom"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/75 via-black/50 to-black/75" />
         {/* Gradiente celeste sutil */}
-        <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-transparent to-primary-dark/10" />
+        <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-transparent to-primary-dark/20" />
+
+        {/* Elementos decorativos flotantes */}
+        <div className="absolute top-20 left-10 w-32 h-32 bg-primary/20 rounded-full blur-2xl animate-float" />
+        <div className="absolute bottom-20 right-10 w-40 h-40 bg-primary-dark/20 rounded-full blur-2xl animate-float-delayed" />
       </div>
 
       {/* Content */}

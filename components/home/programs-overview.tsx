@@ -38,7 +38,7 @@ export function ProgramsOverview() {
   ]
 
   return (
-    <section className="py-24 lg:py-32 bg-background">
+    <section className="py-24 lg:py-32 bg-gradient-to-b from-background via-primary/5 to-background">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-20">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-black text-foreground mb-8 text-balance">
@@ -56,10 +56,10 @@ export function ProgramsOverview() {
             return (
               <Card
                 key={index}
-                className={`relative border-2 overflow-hidden ${program.type === "elite" ? "border-primary/40 shadow-xl shadow-primary/10" : "border-border"} hover:border-primary transition-all duration-300 hover:shadow-2xl hover:shadow-primary/20 hover:-translate-y-1 group`}
+                className={`relative overflow-hidden ${program.type === "elite" ? "border-0 shadow-2xl shadow-primary/20 bg-gradient-to-br from-white to-primary/5" : "border-0 shadow-lg bg-white"} hover:shadow-2xl hover:shadow-primary/30 transition-all duration-300 hover:-translate-y-2 group`}
               >
                 {/* Border top celeste AFA */}
-                <div className={`absolute top-0 left-0 right-0 h-1.5 ${program.type === "elite" ? "bg-gradient-to-r from-primary via-primary-dark to-primary" : "bg-primary group-hover:bg-gradient-to-r group-hover:from-primary group-hover:via-primary-dark group-hover:to-primary transition-all duration-300"}`} />
+                <div className={`absolute top-0 left-0 right-0 h-2 ${program.type === "elite" ? "bg-gradient-to-r from-primary via-primary-dark to-primary" : "bg-primary group-hover:bg-gradient-to-r group-hover:from-primary group-hover:via-primary-dark group-hover:to-primary transition-all duration-300"}`} />
 
                 <CardHeader className="pb-6 pt-8">
                   <div className="flex items-start justify-between mb-6">

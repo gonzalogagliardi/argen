@@ -21,13 +21,13 @@ export function Testimonials() {
       icon: Users,
       title: "Gestión Profesional",
       description:
-        "30 años de experiencia en Rosario Central gestionando áreas infantiles, juveniles y profesionales aseguran una estructura seria.",
+        "Amplia trayectoria gestionando áreas infantiles, juveniles y profesionales en clubes de primera división aseguran una estructura seria.",
       highlight: "Respaldo Institucional",
     },
   ]
 
   return (
-    <section className="py-20 lg:py-28 bg-background">
+    <section className="py-20 lg:py-28 bg-white">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-6 text-balance">
@@ -42,7 +42,7 @@ export function Testimonials() {
           {milestones.map((milestone, index) => {
              const Icon = milestone.icon
              return (
-              <Card key={index} className="border-border bg-card hover:border-primary/30 transition-colors">
+              <Card key={index} className="border-0 bg-gradient-to-br from-primary/5 to-white shadow-lg hover:shadow-xl hover:shadow-primary/20 transition-all duration-300 hover:-translate-y-1">
                 <CardContent className="p-8">
                   <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-primary/10 mb-6">
                     <Icon className="w-6 h-6 text-primary" />

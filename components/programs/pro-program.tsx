@@ -61,8 +61,14 @@ export function ProProgram() {
   const clubs = ["Banfield", "Estudiantes", "Gimnasia", "Unión (Santa Fe)", "Colón", "Rosario Central", "Newell's"]
 
   return (
-    <section id="pro-program" className="py-24 lg:py-32 bg-muted/30">
-      <div className="container mx-auto px-4">
+    <section id="pro-program" className="relative py-24 lg:py-32 bg-gradient-to-br from-primary/5 via-background to-primary/10 overflow-hidden">
+      {/* Patrón sutil de fondo */}
+      <div className="absolute inset-0 opacity-5" style={{ backgroundImage: 'radial-gradient(circle, currentColor 1px, transparent 1px)', backgroundSize: '30px 30px' }} />
+
+      <div className="absolute top-20 right-0 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />
+      <div className="absolute bottom-20 left-0 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />
+
+      <div className="container mx-auto px-4 relative z-10">
         {/* Header */}
         <div className="max-w-4xl mx-auto mb-16">
           <div className="flex items-center gap-3 mb-4">

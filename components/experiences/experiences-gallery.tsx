@@ -46,7 +46,7 @@ export function ExperiencesGallery() {
           {/* Gallery Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredExperiences.map((experience, index) => (
-              <Card key={index} className="relative overflow-hidden border-2 border-border hover:border-primary transition-all duration-300 group hover:-translate-y-2 hover:shadow-2xl hover:shadow-primary/20">
+              <Card key={index} className="relative overflow-hidden border-0 shadow-lg bg-white hover:shadow-2xl hover:shadow-primary/30 transition-all duration-300 group hover:-translate-y-2">
                 {/* Border top celeste */}
                 <div className="absolute top-0 left-0 right-0 h-1 bg-primary group-hover:h-1.5 group-hover:bg-gradient-to-r group-hover:from-primary group-hover:via-primary-dark group-hover:to-primary transition-all duration-300" />
 
