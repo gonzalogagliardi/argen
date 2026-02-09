@@ -10,7 +10,6 @@ export function ProgramsOverview() {
       description:
         "Experiencia para equipos: más partidos amistosos que un torneo tradicional, combinados con actividades y recorridos por la ciudad.",
       icon: Users,
-      image: "/gallery/toronto-02.jpg",
       features: [
         "Amistosos planificados contra una variedad de clubes rosarinos (no solo dos)",
         "Doble turno (Lun–Vie): competencia + paseos/actividades",
@@ -26,7 +25,6 @@ export function ProgramsOverview() {
       description:
         "Formación real: viví y entrená dentro de un club profesional. Programa individual con sedes en distintas ciudades del país.",
       icon: Award,
-      image: "/gallery/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-003.webp",
       features: [
         "Entrenamiento oficial con tu categoría (según cupos y disponibilidad)",
         "Vivir en la residencia/pensión del club (Casa Fútbol)",
@@ -62,16 +60,6 @@ export function ProgramsOverview() {
               >
                 {/* Border top celeste AFA */}
                 <div className={`absolute top-0 left-0 right-0 h-2 ${program.type === "elite" ? "bg-gradient-to-r from-primary via-primary-dark to-primary" : "bg-primary group-hover:bg-gradient-to-r group-hover:from-primary group-hover:via-primary-dark group-hover:to-primary transition-all duration-300"}`} />
-
-                {/* Program Image */}
-                <div className="relative w-full h-56 overflow-hidden">
-                  <img
-                    src={program.image}
-                    alt={program.title}
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
-                </div>
 
                 <CardHeader className="pb-6 pt-8">
                   <div className="flex items-start justify-between mb-6">
