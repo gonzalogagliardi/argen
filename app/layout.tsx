@@ -18,23 +18,49 @@ export const metadata: Metadata = {
   description:
     "Llevamos clubes, academias y jugadores jóvenes de todo el mundo a Argentina para entrenar en clubes profesionales, jugar partidos amistosos y vivir la cultura del fútbol argentino.",
   keywords: "fútbol, Argentina, Rosario, experiencias internacionales, entrenamiento profesional, academias, clubes",
-  generator: "v0.app",
   icons: {
     icon: [
+      { url: "/favicon/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon/favicon-96x96.png", sizes: "96x96", type: "image/png" },
+    ],
+    apple: [
+      { url: "/favicon/apple-icon-57x57.png", sizes: "57x57", type: "image/png" },
+      { url: "/favicon/apple-icon-60x60.png", sizes: "60x60", type: "image/png" },
+      { url: "/favicon/apple-icon-72x72.png", sizes: "72x72", type: "image/png" },
+      { url: "/favicon/apple-icon-76x76.png", sizes: "76x76", type: "image/png" },
+      { url: "/favicon/apple-icon-114x114.png", sizes: "114x114", type: "image/png" },
+      { url: "/favicon/apple-icon-120x120.png", sizes: "120x120", type: "image/png" },
+      { url: "/favicon/apple-icon-144x144.png", sizes: "144x144", type: "image/png" },
+      { url: "/favicon/apple-icon-152x152.png", sizes: "152x152", type: "image/png" },
+      { url: "/favicon/apple-icon-180x180.png", sizes: "180x180", type: "image/png" },
+    ],
+    other: [
+      { rel: "icon", url: "/favicon/favicon.ico" },
+    ],
+  },
+  manifest: "/favicon/manifest.json",
+  openGraph: {
+    type: "website",
+    locale: "es_AR",
+    url: "https://argengoal.com",
+    siteName: "ARGENGOAL",
+    title: "ARGENGOAL | Experiencias Internacionales de Fútbol en Argentina",
+    description: "Llevamos clubes, academias y jugadores jóvenes de todo el mundo a Argentina para entrenar en clubes profesionales, jugar partidos amistosos y vivir la cultura del fútbol argentino.",
+    images: [
       {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
+        url: "/logo-dark.png",
+        width: 1200,
+        height: 630,
+        alt: "ARGENGOAL - Experiencias de Fútbol en Argentina",
       },
     ],
-    apple: "/apple-icon.png",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "ARGENGOAL | Experiencias Internacionales de Fútbol en Argentina",
+    description: "Llevamos clubes, academias y jugadores jóvenes de todo el mundo a Argentina para entrenar en clubes profesionales, jugar partidos amistosos y vivir la cultura del fútbol argentino.",
+    images: ["/logo-dark.png"],
   },
 }
 
@@ -45,6 +71,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
+      <head>
+        <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+        <meta name="theme-color" content="#62b3e5" />
+      </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <Navbar />
         {children}
