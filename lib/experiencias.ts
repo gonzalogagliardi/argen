@@ -371,22 +371,25 @@ export const EXPERIENCES: ExperienceItem[] = [
     slug: "14-experiencias-de-chicos-de-monterrey-mexico",
     date: "2024",
     readTime: "5 min",
-    image: "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-006.webp",
+    image: "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-001.webp",
     description: "Experiencias de chicos de Monterrey, México",
     content: [
       "Experiencias de chicos de Monterrey, México"
     ],
     gallery: [
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-006.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-007.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-001.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-002.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-003.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-004.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-005.webp",
       "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-008.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-009.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-010.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-011.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-012.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-008.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-013.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-014.webp"
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-014.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-015.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-016.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-017.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-018.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-019.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-022.webp"
     ]
   },
 
@@ -475,22 +478,25 @@ export const EXPERIENCES: ExperienceItem[] = [
     slug: "18-paseo-por-la-ciudad-de-rosario-experiencia-pro-202",
     date: "2024",
     readTime: "5 min",
-    image: "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp",
+    image: "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-005.webp",
     description: "Paseo por la ciudad de Rosario, experiencia PRO 2025 de Samuel, de Venezuela",
     content: [
       "Paseo por la ciudad de Rosario, experiencia PRO 2025 de Samuel, de Venezuela"
     ],
     gallery: [
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-002.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-003.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-004.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-002.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-003.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-004.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-005.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-006.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-007.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-008.webp",
       "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-009.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-010.webp"
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-010.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-011.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-012.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-013.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-014.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-015.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-016.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-017.webp"
     ]
   },
 ]
