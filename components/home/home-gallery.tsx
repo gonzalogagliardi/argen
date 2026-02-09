@@ -9,19 +9,19 @@ export function HomeGallery() {
       alt: "Fútbol argentino",
     },
     {
-      src: "/varias/10.jpeg",
+      src: "/varias/4.jpeg",
       alt: "Jugadores en acción",
     },
     {
-      src: "/varias/11.jpeg",
+      src: "/varias/12.jpeg",
       alt: "Entrenamiento profesional",
     },
     {
-      src: "/varias/14.jpeg",
+      src: "/varias/16.jpeg",
       alt: "Desarrollo en Argentina",
     },
     {
-      src: "/varias/17.jpeg",
+      src: "/varias/18.jpeg",
       alt: "Experiencias inolvidables",
     },
   ]

@@ -21,7 +21,7 @@ export function Gallery() {
       alt: "Inmersión futbolística",
     },
     {
-      src: "/varias/13.jpeg",
+      src: "/varias/9.jpeg",
       alt: "Momentos ARGENGOAL",
     },
   ]
