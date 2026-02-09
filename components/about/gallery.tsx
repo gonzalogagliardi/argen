@@ -1,7 +1,7 @@
 export function Gallery() {
   const images = [
     {
-      src: "/varias/1.jpeg",
+      src: "/gallery/18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-005.webp",
       alt: "Experiencia ARGENGOAL",
     },
     {
@@ -13,7 +13,7 @@ export function Gallery() {
       alt: "Jugadores internacionales",
     },
     {
-      src: "/varias/5.jpeg",
+      src: "/gallery/18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-013.webp",
       alt: "Desarrollo profesional",
     },
     {

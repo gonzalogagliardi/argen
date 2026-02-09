@@ -1,11 +1,11 @@
 export function HomeGallery() {
   const images = [
     {
-      src: "/varias/6.jpeg",
+      src: "/varias/1.jpeg",
       alt: "Experiencia ARGENGOAL",
     },
     {
-      src: "/varias/7.jpeg",
+      src: "/varias/5.jpeg",
       alt: "Fútbol argentino",
     },
     {

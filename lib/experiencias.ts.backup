@@ -38,21 +38,18 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de un año de jóvenes japoneses en Japón y de asesor deportivo"
     ],
-        gallery: [
+    gallery: [
+      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-031.webp",
+      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-034.webp",
+      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-036.webp",
       "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-022.webp",
       "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-023.webp",
       "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-024.webp",
       "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-025.webp",
-      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-028.webp",
-      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-031.webp",
-      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-034.webp",
-      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-036.webp",
       "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-037.webp",
       "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-038.webp",
-      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-039.webp",
-      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-040.webp"
+      "/gallery/01%20-%20Experiencia%20de%20un%20a%C3%B1o%20de%20j%C3%B3venes%20japoneses%20en%20Jap%C3%B3/experiencia-de-un-a%C3%B1o-de-j%C3%B3venes-japoneses-en-jap%C3%B3-028.webp"
     ]
-  
   },
 
   {
@@ -67,21 +64,18 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de asesor deportivo japonés en Rosario (Central y Newells)"
     ],
-        gallery: [
+    gallery: [
       "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-001.webp",
-      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-004.webp",
-      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-006.webp",
-      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-008.webp",
       "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-014.webp",
       "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-016.webp",
+      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-004.webp",
       "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-018.webp",
+      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-006.webp",
       "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-019.webp",
+      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-008.webp",
       "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-021.webp",
-      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-023.webp",
-      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-025.webp",
-      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-027.webp"
+      "/gallery/02%20-%20Experiencia%20de%20asesor%20deportivo%20japon%C3%A9s%20en%20Rosario/experiencia-de-asesor-deportivo-japon%C3%A9s-en-rosario-023.webp"
     ]
-  
   },
 
   {
@@ -96,21 +90,18 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de 6 meses de jóvenes de Japón en el C. A. Rosario Central"
     ],
-        gallery: [
+    gallery: [
       "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-001.webp",
       "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-002.webp",
-      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-005.webp",
-      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-007.webp",
-      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-009.webp",
-      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-010.webp",
       "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-013.webp",
       "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-014.webp",
+      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-005.webp",
       "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-017.webp",
+      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-007.webp",
       "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-019.webp",
-      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-022.webp",
-      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-023.webp"
+      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-009.webp",
+      "/gallery/03%20-%20Experiencia%20de%206%20meses%20de%20j%C3%B3venes%20de%20Jap%C3%B3n%20en%20el%20C/experiencia-de-6-meses-de-j%C3%B3venes-de-jap%C3%B3n-en-el-c-010.webp"
     ]
-  
   },
 
   {
@@ -125,7 +116,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Naoto Hikita, experiencia de 2 años en el C. A. Rosario Central"
     ],
-        gallery: [
+    gallery: [
       "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-012.webp",
       "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-014.webp",
       "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-017.webp",
@@ -135,11 +126,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-024.webp",
       "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-025.webp",
       "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-026.webp",
-      "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-027.webp",
-      "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-032.webp",
-      "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-036.webp"
+      "/gallery/04%20-%20Naoto%20Hikita%20experiencia%20de%202%20a%C3%B1os%20en%20el%20C%20A%20Rosar/naoto-hikita-experiencia-de-2-a%C3%B1os-en-el-c-a-rosar-027.webp"
     ]
-  
   },
 
   {
@@ -154,7 +142,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de un mes del entrenador japonés Ryota Henzan. En Newell's y Rosario Central"
     ],
-        gallery: [
+    gallery: [
       "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-001.webp",
       "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-002.webp",
       "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-003.webp",
@@ -164,11 +152,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-007.webp",
       "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-008.webp",
       "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-009.webp",
-      "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-010.webp",
-      "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-011.webp",
-      "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-012.webp"
+      "/gallery/05%20-%20Experiencia%20de%20un%20mes%20del%20entrenador%20japon%C3%A9s%20Ryota/experiencia-de-un-mes-del-entrenador-japon%C3%A9s-ryota-010.webp"
     ]
-  
   },
 
   {
@@ -183,7 +168,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Visita de directivo Japonés a Rosario Central a conocer la metodología"
     ],
-        gallery: [
+    gallery: [
       "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-001.webp",
       "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-002.webp",
       "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-003.webp",
@@ -193,11 +178,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-007.webp",
       "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-008.webp",
       "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-009.webp",
-      "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-010.webp",
-      "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-011.webp",
-      "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-012.webp"
+      "/gallery/06%20-%20Visita%20de%20directivo%20Japon%C3%A9s%20a%20Rosario%20Central%20a%20co/visita-de-directivo-japon%C3%A9s-a-rosario-central-a-co-010.webp"
     ]
-  
   },
 
   {
@@ -212,7 +194,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Matías de Bolivia, compartiendo entrenamiento y amistad con James, de Australia"
     ],
-        gallery: [
+    gallery: [
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-001.webp",
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-002.webp",
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-003.webp",
@@ -220,13 +202,10 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-005.webp",
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-006.webp",
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-007.webp",
-      "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-009.webp",
-      "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-010.webp",
       "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-011.webp",
-      "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-012.webp",
-      "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-013.webp"
+      "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-009.webp",
+      "/gallery/07%20-%20Mat%C3%ADas%20de%20Bolivia%20compartiendo%20entrenamiento%20y%20ami/mat%C3%ADas-de-bolivia-compartiendo-entrenamiento-y-ami-010.webp"
     ]
-  
   },
 
   {
@@ -241,7 +220,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Gerónimo Aguilar, de Colombia"
     ],
-        gallery: [
+    gallery: [
       "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-001.webp",
       "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-002.webp",
       "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-003.webp",
@@ -251,11 +230,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-007.webp",
       "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-008.webp",
       "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-009.webp",
-      "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-010.webp",
-      "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-012.webp",
-      "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-013.webp"
+      "/gallery/08%20-%20Ger%C3%B3nimo%20Aguilar%20de%20Colombia/ger%C3%B3nimo-aguilar-de-colombia-010.webp"
     ]
-  
   },
 
   {
@@ -270,7 +246,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencias de jóvenes de Nigeria"
     ],
-        gallery: [
+    gallery: [
       "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-001.webp",
       "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-002.webp",
       "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-003.webp",
@@ -280,11 +256,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-007.webp",
       "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-008.webp",
       "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-009.webp",
-      "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-010.webp",
-      "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-011.webp",
-      "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-012.webp"
+      "/gallery/09%20-%20Experiencias%20de%20j%C3%B3venes%20de%20Nigeria/experiencias-de-j%C3%B3venes-de-nigeria-010.webp"
     ]
-  
   },
 
   {
@@ -299,7 +272,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de joven de ecuador"
     ],
-        gallery: [
+    gallery: [
       "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-001.webp",
       "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-002.webp",
       "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-003.webp",
@@ -309,11 +282,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-007.webp",
       "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-008.webp",
       "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-009.webp",
-      "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-010.webp",
-      "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-011.webp",
-      "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-012.webp"
+      "/gallery/10%20-%20Experiencia%20de%20joven%20de%20ecuador/experiencia-de-joven-de-ecuador-010.webp"
     ]
-  
   },
 
   {
@@ -328,7 +298,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Nicolás Toledo, con Erik Montoya de USA, NY. De padres colombianos"
     ],
-        gallery: [
+    gallery: [
       "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-001.webp",
       "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-002.webp",
       "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-003.webp",
@@ -338,11 +308,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-007.webp",
       "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-008.webp",
       "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-009.webp",
-      "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-010.webp",
-      "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-011.webp",
-      "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-012.webp"
+      "/gallery/11%20-%20Nicol%C3%A1s%20Toledo%20con%20Erik%20Montoya%20de%20USA%20NY%20De%20padre/nicol%C3%A1s-toledo-con-erik-montoya-de-usa-ny-de-padre-010.webp"
     ]
-  
   },
 
   {
@@ -357,7 +324,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de Yoshi y Jochi. De República Dominicana"
     ],
-        gallery: [
+    gallery: [
       "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-001.webp",
       "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-002.webp",
       "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-003.webp",
@@ -367,11 +334,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-007.webp",
       "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-008.webp",
       "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-009.webp",
-      "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-010.webp",
-      "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-011.webp",
-      "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-012.webp"
+      "/gallery/12%20-%20Experiencia%20de%20Yoshi%20y%20Jochi%20De%20Rep%C3%BAblica%20Dominica/experiencia-de-yoshi-y-jochi-de-rep%C3%BAblica-dominica-010.webp"
     ]
-  
   },
 
   {
@@ -386,21 +350,18 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Los Profes Arlex y Wilson, de Colombia. Con un joven talento de Barranquilla"
     ],
-        gallery: [
+    gallery: [
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-001.webp",
-      "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-004.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-011.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-012.webp",
+      "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-004.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-013.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-014.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-015.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-016.webp",
       "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-017.webp",
-      "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-018.webp",
-      "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-019.webp",
-      "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-020.webp"
+      "/gallery/13%20-%20Los%20Profes%20Arlex%20y%20Wilson%20de%20Colombia%20Con%20un%20joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-018.webp"
     ]
-  
   },
 
   {
@@ -410,26 +371,23 @@ export const EXPERIENCES: ExperienceItem[] = [
     slug: "14-experiencias-de-chicos-de-monterrey-mexico",
     date: "2024",
     readTime: "5 min",
-    image: "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-001.webp",
+    image: "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-006.webp",
     description: "Experiencias de chicos de Monterrey, México",
     content: [
       "Experiencias de chicos de Monterrey, México"
     ],
-        gallery: [
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-001.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-002.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-003.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-004.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-005.webp",
+    gallery: [
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-006.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-007.webp",
       "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-008.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-014.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-015.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-016.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-017.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-018.webp",
-      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-019.webp"
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-009.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-010.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-011.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-012.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-008.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-013.webp",
+      "/gallery/14%20-%20Experiencias%20de%20chicos%20de%20Monterrey%20M%C3%A9xico/experiencias-de-chicos-de-monterrey-m%C3%A9xico-014.webp"
     ]
-  
   },
 
   {
@@ -444,7 +402,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Adrian Sánchez en Banfield, luego prueba en Riestra y contrato en México"
     ],
-        gallery: [
+    gallery: [
       "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-001.webp",
       "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-002.webp",
       "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-003.webp",
@@ -454,11 +412,8 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-007.webp",
       "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-008.webp",
       "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-009.webp",
-      "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-010.webp",
-      "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-011.webp",
-      "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-012.webp"
+      "/gallery/15%20-%20Adrian%20S%C3%A1nchez%20en%20Banfield%20luego%20prueba%20en%20Riestra/adrian-s%C3%A1nchez-en-banfield-luego-prueba-en-riestra-010.webp"
     ]
-  
   },
 
   {
@@ -473,21 +428,18 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de Juan Francisco Acurio en Rosario Central 2025"
     ],
-        gallery: [
+    gallery: [
+      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-004.webp",
+      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-005.webp",
+      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-006.webp",
       "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-004.webp",
       "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-005.webp",
       "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-006.webp",
       "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-007.webp",
       "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-008.webp",
       "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-009.webp",
-      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-010.webp",
-      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-011.webp",
-      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-012.webp",
-      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-013.webp",
-      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-014.webp",
-      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-015.webp"
+      "/gallery/16%20-%20Experiencia%20de%20Juan%20Francisco%20Acurio%20en%20Rosario%20Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-010.webp"
     ]
-  
   },
 
   {
@@ -502,7 +454,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     content: [
       "Experiencia de Rogelio, de Sonora, México"
     ],
-        gallery: [
+    gallery: [
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-006.webp",
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-007.webp",
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-008.webp",
@@ -510,13 +462,10 @@ export const EXPERIENCES: ExperienceItem[] = [
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-010.webp",
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-011.webp",
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-012.webp",
+      "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-008.webp",
       "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-013.webp",
-      "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-014.webp",
-      "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-015.webp",
-      "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-016.webp",
-      "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-017.webp"
+      "/gallery/17%20-%20Experiencia%20de%20Rogelio%20de%20Sonora%20M%C3%A9xico/experiencia-de-rogelio-de-sonora-m%C3%A9xico-014.webp"
     ]
-  
   },
 
   {
@@ -526,25 +475,22 @@ export const EXPERIENCES: ExperienceItem[] = [
     slug: "18-paseo-por-la-ciudad-de-rosario-experiencia-pro-202",
     date: "2024",
     readTime: "5 min",
-    image: "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-005.webp",
+    image: "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp",
     description: "Paseo por la ciudad de Rosario, experiencia PRO 2025 de Samuel, de Venezuela",
     content: [
       "Paseo por la ciudad de Rosario, experiencia PRO 2025 de Samuel, de Venezuela"
     ],
-        gallery: [
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-005.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-006.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-007.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-008.webp",
+    gallery: [
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-002.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-003.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-004.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-002.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-003.webp",
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-004.webp",
       "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-009.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-010.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-011.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-012.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-013.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-014.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-015.webp",
-      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-016.webp"
+      "/gallery/18%20-%20Paseo%20por%20la%20ciudad%20de%20Rosario%20experiencia%20PRO%20202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-010.webp"
     ]
-  
   },
 ]

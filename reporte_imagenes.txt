@@ -1,0 +1,374 @@
+================================================================================
+REPORTE DE IMAGENES FALTANTES
+================================================================================
+
+
+================================================================================
+EXPERIENCIA 01
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 12
+
+[!] IMAGENES FALTANTES (5):
+   [X] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-019.webp
+   [X] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-020.webp
+   [X] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-021.webp
+   [X] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-026.webp
+   [X] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-027.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (7):
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-031.webp
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-034.webp
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-036.webp
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-037.webp
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-038.webp
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-039.webp
+   [+] 01 - Experiencia de un año de jóvenes japoneses en Japó/experiencia-de-un-año-de-jóvenes-japoneses-en-japó-040.webp
+
+================================================================================
+EXPERIENCIA 02
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 20
+
+[!] IMAGENES FALTANTES (6):
+   [X] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-002.webp
+   [X] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-003.webp
+   [X] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-005.webp
+   [X] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-007.webp
+   [X] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-009.webp
+   [X] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-010.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (16):
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-014.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-016.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-018.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-019.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-021.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-023.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-025.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-027.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-029.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-031.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-032.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-033.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-034.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-036.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-038.webp
+   [+] 02 - Experiencia de asesor deportivo japonés en Rosario/experiencia-de-asesor-deportivo-japonés-en-rosario-039.webp
+
+================================================================================
+EXPERIENCIA 03
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 14
+
+[!] IMAGENES FALTANTES (4):
+   [X] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-003.webp
+   [X] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-004.webp
+   [X] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-006.webp
+   [X] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-008.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (8):
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-013.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-014.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-017.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-019.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-022.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-023.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-025.webp
+   [+] 03 - Experiencia de 6 meses de jóvenes de Japón en el C/experiencia-de-6-meses-de-jóvenes-de-japón-en-el-c-028 - copia - copia.webp
+
+================================================================================
+EXPERIENCIA 04
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 16
+
+[!] IMAGENES FALTANTES (10):
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-001.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-002.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-003.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-004.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-005.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-006.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-007.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-008.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-009.webp
+   [X] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-010.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (16):
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-012.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-014.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-017.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-018.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-019.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-020.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-024.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-025.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-026.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-027.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-032.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-036.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-037.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-038.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-039.webp
+   [+] 04 - Naoto Hikita experiencia de 2 años en el C A Rosar/naoto-hikita-experiencia-de-2-años-en-el-c-a-rosar-040.webp
+
+================================================================================
+EXPERIENCIA 07
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 39
+
+[!] IMAGENES FALTANTES (1):
+   [X] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-008.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (30):
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-011.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-012.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-013.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-014.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-015.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-016.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-017.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-018.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-019.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-020.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-021.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-022.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-023.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-024.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-025.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-026.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-027.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-028.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-029.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-030.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-031.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-032.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-033.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-034.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-035.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-036.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-037.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-038.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-039.webp
+   [+] 07 - Matías de Bolivia compartiendo entrenamiento y ami/matías-de-bolivia-compartiendo-entrenamiento-y-ami-040.webp
+
+================================================================================
+EXPERIENCIA 13
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 31
+
+[!] IMAGENES FALTANTES (8):
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-002.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-003.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-005.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-006.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-007.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-008.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-009.webp
+   [X] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-010.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (29):
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-011.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-012.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-013.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-014.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-015.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-016.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-017.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-018.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-019.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-020.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-021.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-022.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-023.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-024.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-025.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-026.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-027.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-029.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-030.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-031.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-032.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-033.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-034.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-035.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-036.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-037.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-038.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-039.webp
+   [+] 13 - Los Profes Arlex y Wilson de Colombia Con un joven/los-profes-arlex-y-wilson-de-colombia-con-un-joven-040.webp
+
+================================================================================
+EXPERIENCIA 14
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 27
+
+[!] IMAGENES FALTANTES (4):
+   [X] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-006.webp
+   [X] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-007.webp
+   [X] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-009.webp
+   [X] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-010.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (21):
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-014.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-015.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-016.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-017.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-018.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-019.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-022.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-023.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-024.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-025.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-027.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-028.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-032.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-033.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-034.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-035.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-036.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-037.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-038.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-039.webp
+   [+] 14 - Experiencias de chicos de Monterrey México/experiencias-de-chicos-de-monterrey-méxico-040.webp
+
+================================================================================
+EXPERIENCIA 16
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 37
+
+[!] IMAGENES FALTANTES (3):
+   [X] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-001.webp
+   [X] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-002.webp
+   [X] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-003.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (30):
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-011.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-012.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-013.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-014.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-015.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-016.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-017.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-018.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-019.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-020.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-021.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-022.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-023.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-024.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-025.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-026.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-027.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-028.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-029.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-030.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-031.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-032.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-033.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-034.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-035.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-036.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-037.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-038.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-039.webp
+   [+] 16 - Experiencia de Juan Francisco Acurio en Rosario Ce/experiencia-de-juan-francisco-acurio-en-rosario-ce-040.webp
+
+================================================================================
+EXPERIENCIA 17
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 29
+
+[!] IMAGENES FALTANTES (5):
+   [X] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-001.webp
+   [X] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-002.webp
+   [X] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-003.webp
+   [X] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-004.webp
+   [X] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-005.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (24):
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-011.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-012.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-013.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-014.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-015.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-016.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-017.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-018.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-019.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-020.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-021.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-022.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-024.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-025.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-026.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-029.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-031.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-032.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-035.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-036.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-037.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-038.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-039.webp
+   [+] 17 - Experiencia de Rogelio de Sonora México/experiencia-de-rogelio-de-sonora-méxico-040.webp
+
+================================================================================
+EXPERIENCIA 18
+================================================================================
+
+Imagenes referenciadas en experiencias.ts: 11
+Imagenes existentes en disco: 22
+
+[!] IMAGENES FALTANTES (4):
+   [X] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-001.webp
+   [X] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-002.webp
+   [X] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-003.webp
+   [X] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-004.webp
+
+[OK] IMAGENES ALTERNATIVAS DISPONIBLES (16):
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-011.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-012.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-013.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-014.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-015.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-016.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-017.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-018.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-019.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-020.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-021.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-022.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-023.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-024.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-025.webp
+   [+] 18 - Paseo por la ciudad de Rosario experiencia PRO 202/paseo-por-la-ciudad-de-rosario-experiencia-pro-202-026.webp
+
+================================================================================
+RESUMEN TOTAL
+================================================================================
+Total de imagenes faltantes: 50
+Traceback (most recent call last):
+  File "C:\Users\gagli\Desktop\argengoal\check_images.py", line 97, in <module>
+    print(f"Total de experiencias con problemas: {sum(1 for exp_num in decoded_refs if decoded_refs.get(exp_num, set()) - set(existing_files.get(exp_num, [])))}")
+                                                  ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gagli\Desktop\argengoal\check_images.py", line 97, in <genexpr>
+    print(f"Total de experiencias con problemas: {sum(1 for exp_num in decoded_refs if decoded_refs.get(exp_num, set()) - set(existing_files.get(exp_num, [])))}")
+                                                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'list' and 'set'
