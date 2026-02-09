@@ -13,8 +13,9 @@ export function Navbar() {
     { href: "/", label: "Inicio" },
     { href: "/programas", label: "Programas" },
     { href: "/como-funciona", label: "Cómo Funciona" },
-    { href: "/experiencias", label: "Experiencias" },
+    
     { href: "/nosotros", label: "Nosotros" },
+    { href: "/experiencias", label: "Experiencias" },
   ]
 
   return (

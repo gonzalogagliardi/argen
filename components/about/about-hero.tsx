@@ -3,7 +3,7 @@ export function AboutHero() {
     <section className="relative py-20 lg:py-28 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="/newells.png"
+          src="/varias/fondos/11.jpeg"
           alt="Rosario Argentina"
           className="w-full h-full object-cover"
         />

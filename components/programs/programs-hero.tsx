@@ -3,7 +3,7 @@ export function ProgramsHero() {
     <section className="relative py-20 lg:py-28 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="/football-training-session-argentina.jpg"
+          src="/varias/fondos/17.jpeg"
           alt="Football Training Argentina"
           className="w-full h-full object-cover"
         />
