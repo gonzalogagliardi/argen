@@ -27,9 +27,9 @@ export function HomeGallery() {
   ]
 
   return (
-    <section className="py-20 lg:py-28 bg-gradient-to-b from-background via-primary/5 to-background">
+    <section className="py-24 lg:py-32 bg-gradient-to-b from-background via-primary/5 to-background">
       <div className="container mx-auto px-4">
-        <div className="max-w-6xl mx-auto text-center mb-12">
+        <div className="max-w-7xl mx-auto text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
             Vive la Experiencia ARGENGOAL
           </h2>
@@ -38,11 +38,11 @@ export function HomeGallery() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {images.map((image, index) => (
             <div
               key={index}
-              className="relative aspect-[4/3] rounded-xl overflow-hidden group shadow-lg hover:shadow-2xl hover:shadow-primary/20 transition-all duration-300"
+              className="relative aspect-[3/2] rounded-xl overflow-hidden group shadow-lg hover:shadow-2xl hover:shadow-primary/20 transition-all duration-300"
             >
               <img
                 src={image.src}
