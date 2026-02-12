@@ -1,12 +1,28 @@
+import dynamic from "next/dynamic"
 import { Hero } from "@/components/home/hero"
-import { WhatIsArgengoal } from "@/components/home/what-is-argengoal"
-import { WhyArgentina } from "@/components/home/why-argentina"
 import { ProgramsOverview } from "@/components/home/programs-overview"
-import { HowItWorks } from "@/components/home/how-it-works"
-import { Testimonials } from "@/components/home/testimonials"
-import { VideoTestimonials } from "@/components/home/video-testimonials"
-import { HomeGallery } from "@/components/home/home-gallery"
-import { CtaBanner } from "@/components/home/cta-banner"
+
+const VideoTestimonials = dynamic(() =>
+  import("@/components/home/video-testimonials").then((m) => ({ default: m.VideoTestimonials }))
+)
+const WhyArgentina = dynamic(() =>
+  import("@/components/home/why-argentina").then((m) => ({ default: m.WhyArgentina }))
+)
+const WhatIsArgengoal = dynamic(() =>
+  import("@/components/home/what-is-argengoal").then((m) => ({ default: m.WhatIsArgengoal }))
+)
+const HowItWorks = dynamic(() =>
+  import("@/components/home/how-it-works").then((m) => ({ default: m.HowItWorks }))
+)
+const Testimonials = dynamic(() =>
+  import("@/components/home/testimonials").then((m) => ({ default: m.Testimonials }))
+)
+const HomeGallery = dynamic(() =>
+  import("@/components/home/home-gallery").then((m) => ({ default: m.HomeGallery }))
+)
+const CtaBanner = dynamic(() =>
+  import("@/components/home/cta-banner").then((m) => ({ default: m.CtaBanner }))
+)
 
 export default function HomePage() {
   return (

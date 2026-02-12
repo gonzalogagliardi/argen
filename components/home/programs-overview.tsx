@@ -28,8 +28,8 @@ export function ProgramsOverview() {
       features: [
         "Entrenamiento oficial con tu categoría (según cupos y disponibilidad)",
         "Vivir en la residencia/pensión del club (Casa Fútbol)",
-        "Staff profesional: DT, PF, nutrición y psicología deportiva",
-        "Red en expansión (Bs As + Santa Fe): Banfield, Estudiantes, Gimnasia, Unión, Colón, Central y Newell's",
+        "Coordinadores, DTs, PFs, Nutricionistas, Psicólogos, Kinesiólogos, Médicos",
+        "Red de +0 clubes profesionales en todo el país (Buenos Aires, Rosario, Santa Fe, Córdoba, Mendoza y más)",16
       ],
       duration: "1 sem. a 30 días",
       href: "/programas#pro-program",
@@ -91,7 +91,7 @@ export function ProgramsOverview() {
                         <span>Alto Rendimiento · Individual</span>
                       </div>
                       <div className="inline-flex items-center gap-2 bg-muted/60 text-foreground px-4 py-2 rounded-full text-sm font-semibold">
-                        <span>Sedes múltiples (Bs As · Santa Fe · Rosario)</span>
+                        <span>Sedes múltiples (Buenos Aires, Rosario, Santa Fe, Córdoba, Mendoza)</span>
                       </div>
                     </div>
                   )}

@@ -5,7 +5,7 @@ export function WhyArgentina() {
   const legends = [
     { name: "Lionel Messi", city: "Rosario" },
     { name: "Ángel Di María", city: "Rosario" },
-    { name: "Marcelo Bielsa", city: "Rosario" },
+    { name: "Lionel Scaloni", city: "Pujato, SF" },
   ]
 
   const reasons = [
@@ -27,7 +27,7 @@ export function WhyArgentina() {
     {
       number: "04",
       title: "Donde Nacen las Estrellas",
-      description: "Rosario dio al mundo a Messi, Di María y Bielsa. Entrenás en el mismo lugar que ellos.",
+      description: "Argentina dio al mundo a Messi, Di María y Scaloni. Entrenás donde se formaron los campeones.",
     },
   ]
 

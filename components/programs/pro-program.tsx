@@ -217,7 +217,7 @@ export function ProProgram() {
           <Card className="p-12 border-primary/50 bg-gradient-to-br from-primary/5 to-background shadow-2xl">
             <h3 className="text-3xl lg:text-4xl font-bold text-foreground mb-6">¿Listo para el desafío?</h3>
             <p className="text-muted-foreground mb-10 leading-relaxed text-lg max-w-2xl mx-auto">
-              Requisito: Ergometría apta y nivel futbolístico base. <br />
+              Requisito: Estudios cardiológicos aptos, seguro de viajero, nivel futbolístico base. <br />
               Las plazas en la residencia del club son limitadas.
             </p>
             <Button

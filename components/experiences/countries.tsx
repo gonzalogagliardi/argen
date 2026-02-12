@@ -4,19 +4,19 @@ export function Countries() {
   const regions = [
     {
       region: "Europa",
-      countries: ["España", "Portugal", "Italia", "Francia", "Inglaterra", "Alemania"],
+      countries: ["España", "Portugal", "Italia", "Francia", "Inglaterra", "Alemania", "Rusia", "Noruega"],
     },
     {
-      region: "América del Norte",
-      countries: ["Estados Unidos", "Canadá", "México"],
+      region: "América del Norte y Central",
+      countries: ["Estados Unidos", "Canadá", "México", "Guatemala", "Costa Rica", "Panamá", "Rep. Dominicana", "Puerto Rico", "Honduras"],
     },
     {
       region: "América del Sur",
-      countries: ["Brasil", "Chile", "Uruguay", "Colombia", "Perú"],
+      countries: ["Brasil", "Bolivia", "Chile", "Colombia", "Ecuador", "Paraguay", "Perú", "Uruguay", "Venezuela"],
     },
     {
-      region: "Asia y Otros",
-      countries: ["Japón", "China", "Australia", "Sudáfrica"],
+      region: "Asia, África y Otros",
+      countries: ["Australia", "Japón", "Corea", "India", "Sudáfrica", "Nigeria", "Senegal", "Qatar"],
     },
   ]
 

@@ -27,7 +27,7 @@ export function Timeline() {
     {
       phase: "Día de llegada",
       title: "Bienvenida y Pago Final",
-      description: "Recepción en Rosario, cancelación del saldo y check-in.",
+      description: "Recepción en Argentina, cancelación del saldo y check-in.",
     },
   ]
 

@@ -8,7 +8,7 @@ export function Requirements() {
       title: "Documentación",
       items: [
         "Pasaporte válido",
-        "Apto Médico (Ergometría)",
+        "Apto cardiológico firmado por cardiólogo (ergometría + electrocardiograma)",
         "Declaración Jurada de Salud",
         "Ficha personal ArgenGoal",
       ],
@@ -18,7 +18,7 @@ export function Requirements() {
       title: "Pagos",
       items: [
         "Reserva: USD 500 (Confirma plaza)",
-        "Saldo: En efectivo al llegar a Rosario",
+        "Saldo: En efectivo al llegar a Argentina",
         "La reserva no es reembolsable",
       ],
     },

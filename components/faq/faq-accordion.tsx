@@ -38,7 +38,7 @@ export function FaqAccordion() {
         {
           question: "¿Puedo personalizar la duración?",
           answer:
-            "Sí. El programa Rosario base es de 10 días y el Pro de 1 a 4 semanas, pero podemos ajustar la duración según las necesidades de tu academia.",
+            "Sí. El programa Rosario base es de 10 días. En el programa Pro podemos ajustar la duración a varios meses o el año completo. Incluso según tus capacidades podemos generar un fichaje y que tengas contrato para el club.",
         },
       ],
     },
@@ -48,7 +48,7 @@ export function FaqAccordion() {
         {
           question: "¿Qué documentos necesito?",
           answer:
-            "Pasaporte vigente, Seguro de Viajero (obligatorio) y fichas médicas provistas por ArgenGoal. Para el Pro Program es obligatorio presentar una Ergometría (apto físico cardiológico) firmada.",
+            "Pasaporte vigente, Seguro de Viajero (obligatorio) y fichas médicas provistas por ArgenGoal. Para el Pro Program es obligatorio presentar estudios cardiológicos aptos firmados.",
         },
         {
           question: "¿Los padres pueden acompañar?",
