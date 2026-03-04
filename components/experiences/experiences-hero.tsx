@@ -1,4 +1,11 @@
+"use client"
+
+import { useLanguage } from "@/lib/language-context"
+
 export function ExperiencesHero() {
+  const { t } = useLanguage()
+  const s = t.experiencesHero
+
   return (
     <section className="relative py-20 lg:py-28 min-h-[600px] overflow-hidden">
       <div className="absolute inset-0 z-0">
@@ -12,13 +19,8 @@ export function ExperiencesHero() {
 
       <div className="container relative z-10 mx-auto px-4">
         <div className="max-w-3xl">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 text-balance">
-            Experiencias Internacionales
-          </h1>
-          <p className="text-lg md:text-xl text-white/90 leading-relaxed text-pretty">
-            Equipos, academias y jugadores de todo el mundo han confiado en ARGENGOAL para vivir experiencias únicas de
-            fútbol en Argentina.
-          </p>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 text-balance">{s.title}</h1>
+          <p className="text-lg md:text-xl text-white/90 leading-relaxed text-pretty">{s.description}</p>
         </div>
       </div>
     </section>

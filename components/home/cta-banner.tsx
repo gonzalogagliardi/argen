@@ -1,11 +1,16 @@
+"use client"
+
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { ArrowRight } from "lucide-react"
+import { useLanguage } from "@/lib/language-context"
 
 export function CtaBanner() {
+  const { t } = useLanguage()
+  const s = t.ctaBanner
+
   return (
     <section className="relative py-24 lg:py-32 overflow-hidden">
-      {/* Background with overlay */}
       <div className="absolute inset-0 z-0">
         <img
           src="/argentina-football-players-celebrating-team-spirit.jpg"
@@ -13,22 +18,23 @@ export function CtaBanner() {
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-br from-primary/90 via-primary-dark/85 to-primary/90" />
-        {/* Patrón de puntos sutil */}
-        <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '20px 20px' }} />
+        <div
+          className="absolute inset-0 opacity-10"
+          style={{ backgroundImage: "radial-gradient(circle, white 1px, transparent 1px)", backgroundSize: "20px 20px" }}
+        />
       </div>
 
-      {/* Content */}
       <div className="container relative z-10 mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-8 text-balance leading-tight">
-            ¿Listo Para Vivir la Experiencia{" "}
+            {s.title}{" "}
             <span className="inline-block px-4 py-1 bg-white/20 backdrop-blur-sm rounded-lg">
-              ARGENGOAL
+              {s.titleHighlight}
             </span>
             ?
           </h2>
           <p className="text-xl md:text-2xl text-white/95 mb-12 text-pretty leading-relaxed font-medium">
-            Da el primer paso hoy. Tu viaje al corazón del fútbol argentino comienza aquí.
+            {s.description}
           </p>
 
           <div className="flex flex-col sm:flex-row gap-5 justify-center">
@@ -38,7 +44,7 @@ export function CtaBanner() {
               className="group bg-white text-black hover:bg-white/95 text-lg px-14 py-8 h-auto shadow-2xl font-black transition-all duration-300 hover:scale-105 hover:shadow-white/20"
             >
               <Link href="/contacto">
-                Empezar Ahora
+                {s.cta1}
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Link>
             </Button>
@@ -48,7 +54,7 @@ export function CtaBanner() {
               variant="outline"
               className="bg-white/10 backdrop-blur-md text-white border-2 border-white/40 hover:bg-white hover:text-foreground text-lg px-12 py-8 h-auto font-bold transition-all duration-300 hover:scale-105"
             >
-              <Link href="/programas">Ver Programas</Link>
+              <Link href="/programas">{s.cta2}</Link>
             </Button>
           </div>
         </div>
