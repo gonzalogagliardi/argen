@@ -14,10 +14,14 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://argengoal.com"),
   title: "ARGENGOAL | Experiencias Internacionales de Fútbol en Argentina",
   description:
     "Llevamos clubes, academias y jugadores jóvenes de todo el mundo a Argentina para entrenar en clubes profesionales, jugar partidos amistosos y vivir la cultura del fútbol argentino.",
-  keywords: "fútbol, Argentina, Rosario, experiencias internacionales, entrenamiento profesional, academias, clubes",
+  keywords: "fútbol Argentina, experiencias fútbol Argentina, academia fútbol Rosario, entrenar en Argentina, fútbol argentino internacional, Rosario Central, clubes profesionales Argentina",
+  alternates: {
+    canonical: "https://argengoal.com",
+  },
   icons: {
     icon: [
       { url: "/favicon/favicon-16x16.png", sizes: "16x16", type: "image/png" },
@@ -74,6 +78,35 @@ export default function RootLayout({
       <head>
         <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
         <meta name="theme-color" content="#62b3e5" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              name: "ARGENGOAL",
+              url: "https://argengoal.com",
+              logo: "https://argengoal.com/logo-dark.png",
+              description:
+                "Llevamos clubes, academias y jugadores jóvenes de todo el mundo a Argentina para entrenar en clubes profesionales, jugar partidos amistosos y vivir la cultura del fútbol argentino.",
+              address: {
+                "@type": "PostalAddress",
+                addressLocality: "Rosario",
+                addressRegion: "Santa Fe",
+                addressCountry: "AR",
+              },
+              contactPoint: {
+                "@type": "ContactPoint",
+                email: "contacto@argengoal.com",
+                contactType: "customer support",
+                availableLanguage: ["Spanish", "English"],
+              },
+              sameAs: [
+                "https://www.instagram.com/argengoal",
+              ],
+            }),
+          }}
+        />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <Navbar />

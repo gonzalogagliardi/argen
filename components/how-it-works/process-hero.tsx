@@ -1,9 +1,9 @@
 export function ProcessHero() {
   return (
-    <section className="relative py-20 lg:py-28 overflow-hidden">
+    <section className="relative py-20 lg:py-28 min-h-[600px] overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="/planning-football-experience-argentina.jpg"
+          src="/rosariocentralestadio.jpeg"
           alt="Planning Football Experience"
           className="w-full h-full object-cover"
         />

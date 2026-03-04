@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "Programas | ARGENGOAL",
   description:
     "Descubre nuestros programas de fútbol internacional: Rosario Experience para equipos y academias, y Pro Program para desarrollo profesional de jugadores.",
+  alternates: { canonical: "https://argengoal.com/programas" },
 }
 
 export default function ProgramsPage() {

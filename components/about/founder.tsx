@@ -34,7 +34,7 @@ export function Founder() {
             <div className="relative">
               <div className="aspect-[4/5] rounded-lg overflow-hidden bg-muted shadow-xl">
                 <img
-                  src="/about.png"
+                  src="/about.jpeg"
                   alt="Luciano Pellegrini"
                   className="w-full h-full object-cover"
                 />

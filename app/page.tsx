@@ -1,5 +1,15 @@
+import type { Metadata } from "next"
 import dynamic from "next/dynamic"
 import { Hero } from "@/components/home/hero"
+
+export const metadata: Metadata = {
+  title: "ARGENGOAL | Experiencias Internacionales de Fútbol en Argentina",
+  description:
+    "Llevamos clubes, academias y jugadores jóvenes de todo el mundo a Argentina para entrenar en clubes profesionales, jugar partidos amistosos y vivir la cultura del fútbol argentino.",
+  alternates: {
+    canonical: "https://argengoal.com",
+  },
+}
 import { ProgramsOverview } from "@/components/home/programs-overview"
 
 const VideoTestimonials = dynamic(() =>

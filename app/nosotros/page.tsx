@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: "Nosotros | ARGENGOAL",
   description:
     "Conoce a ARGENGOAL y su fundador Luciano Pellegrini, con amplia trayectoria en fútbol profesional argentino y una red internacional en más de 30 países.",
+  alternates: { canonical: "https://argengoal.com/nosotros" },
 }
 
 export default function AboutPage() {

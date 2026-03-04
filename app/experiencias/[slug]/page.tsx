@@ -19,6 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: post ? `${post.title} | ARGENGOAL` : "Experiencia | ARGENGOAL",
     description: post?.description ?? "Experiencias de fútbol en Argentina",
+    alternates: { canonical: `https://argengoal.com/experiencias/${slug}` },
   }
 }
 

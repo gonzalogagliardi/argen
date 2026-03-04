@@ -12,7 +12,7 @@ export function WhatIsArgengoal() {
     {
       icon: Trophy,
       title: "Programas Elite",
-      stat: "7 Clubes",
+      stat: "16 Clubes",
       description: "Acceso directo a clubes profesionales de primera división argentina",
     },
     {

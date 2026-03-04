@@ -1,6 +1,6 @@
 export function ProgramsHero() {
   return (
-    <section className="relative py-20 lg:py-28 overflow-hidden">
+    <section className="relative py-20 lg:py-28 min-h-[600px] overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
           src="/varias/fondos/17.jpeg"

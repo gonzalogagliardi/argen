@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "Experiencias Internacionales | ARGENGOAL",
   description:
     "Explora las experiencias de equipos y jugadores de todo el mundo que han vivido el fútbol argentino con ARGENGOAL.",
+  alternates: { canonical: "https://argengoal.com/experiencias" },
 }
 
 export default function ExperiencesPage() {

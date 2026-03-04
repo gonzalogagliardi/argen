@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: "Cómo Funciona | ARGENGOAL",
   description:
     "Descubre el proceso paso a paso para participar en los programas ARGENGOAL. Desde el contacto inicial hasta tu llegada a Argentina.",
+  alternates: { canonical: "https://argengoal.com/como-funciona" },
 }
 
 export default function HowItWorksPage() {

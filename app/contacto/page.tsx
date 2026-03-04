@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Contacto | ARGENGOAL",
   description:
     "Ponte en contacto con ARGENGOAL. Solicita información sobre nuestros programas de fútbol en Rosario, Argentina.",
+  alternates: { canonical: "https://argengoal.com/contacto" },
 }
 
 export default function ContactPage() {
