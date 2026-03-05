@@ -16,7 +16,13 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     const saved = localStorage.getItem("argengoal-lang") as Language
-    if (saved === "es" || saved === "en") setLangState(saved)
+    if (saved === "es" || saved === "en") {
+      setLangState(saved)
+    } else {
+      // Auto-detect from browser language
+      const browser = navigator.language.toLowerCase()
+      if (browser.startsWith("en")) setLangState("en")
+    }
   }, [])
 
   const setLang = (l: Language) => {

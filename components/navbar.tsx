@@ -4,7 +4,7 @@ import { useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
-import { Menu, X } from "lucide-react"
+import { Menu, X, Globe } from "lucide-react"
 import { useLanguage } from "@/lib/language-context"
 
 export function Navbar() {
@@ -50,12 +50,13 @@ export function Navbar() {
             {/* Language Switcher */}
             <button
               onClick={() => setLang(lang === "es" ? "en" : "es")}
-              className="flex items-center gap-1 text-sm font-bold border border-foreground/20 hover:border-primary rounded-md px-2.5 py-1.5 transition-colors"
+              className="flex items-center gap-2 text-sm font-bold bg-primary/10 hover:bg-primary/20 border border-primary/30 hover:border-primary text-foreground rounded-full px-3 py-1.5 transition-all duration-200"
               aria-label="Switch language"
             >
-              <span className={lang === "es" ? "text-primary" : "text-foreground/40"}>ES</span>
-              <span className="text-foreground/25 mx-0.5">|</span>
-              <span className={lang === "en" ? "text-primary" : "text-foreground/40"}>EN</span>
+              <Globe className="w-3.5 h-3.5 text-primary" />
+              <span className={lang === "es" ? "text-primary" : "text-foreground/50"}>ES</span>
+              <span className="text-foreground/25">/</span>
+              <span className={lang === "en" ? "text-primary" : "text-foreground/50"}>EN</span>
             </button>
 
             <Button
@@ -71,12 +72,13 @@ export function Navbar() {
           <div className="lg:hidden flex items-center gap-3">
             <button
               onClick={() => setLang(lang === "es" ? "en" : "es")}
-              className="flex items-center gap-1 text-sm font-bold border border-foreground/20 hover:border-primary rounded-md px-2 py-1 transition-colors"
+              className="flex items-center gap-1.5 text-sm font-bold bg-primary/10 hover:bg-primary/20 border border-primary/30 rounded-full px-2.5 py-1 transition-all"
               aria-label="Switch language"
             >
-              <span className={lang === "es" ? "text-primary" : "text-foreground/40"}>ES</span>
-              <span className="text-foreground/25">|</span>
-              <span className={lang === "en" ? "text-primary" : "text-foreground/40"}>EN</span>
+              <Globe className="w-3.5 h-3.5 text-primary" />
+              <span className={lang === "es" ? "text-primary" : "text-foreground/50"}>ES</span>
+              <span className="text-foreground/25">/</span>
+              <span className={lang === "en" ? "text-primary" : "text-foreground/50"}>EN</span>
             </button>
             <button
               onClick={() => setIsOpen(!isOpen)}
